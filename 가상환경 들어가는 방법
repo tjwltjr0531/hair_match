@@ -1,0 +1,5 @@
+가상환경 들어가는 방법
+터미널에서 hairmatch 폴더 이동
+가상환경 활성화 명령어
+.\mpenv\Scripts\activate(미디어 파이프 가상환경 - 사진 데이터 크롭 및 전처리)
+.\tfenv\Scripts\activate(사진 데이터 tensorflow로 학습) 
